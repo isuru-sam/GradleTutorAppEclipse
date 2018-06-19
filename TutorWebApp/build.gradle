@@ -6,7 +6,7 @@ apply plugin: 'war'
 apply plugin: 'com.bmuschko.tomcat'
  
 repositories {
-   jcenter()
+  // jcenter()
 }
  
 dependencies {    
